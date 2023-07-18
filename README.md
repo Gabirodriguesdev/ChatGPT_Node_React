@@ -2,14 +2,14 @@
 O que foi usado nos projetos 
 
 Backend : 
-> Node
-> Express
-> Javascript
-> Cors
+| Node
+| Express
+| Javascript
+| Cors
 
 Frontend :
-> React
-> Javascript
+| React
+| Javascript
 
 Como eu faço para executar o serviço do backend?
 
