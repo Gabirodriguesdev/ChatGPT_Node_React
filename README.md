@@ -1,5 +1,4 @@
 # ChatGPT_Node_React
-
 O que foi usado nos projetos 
 
 Backend : 
@@ -11,7 +10,8 @@ Backend :
 Frontend :
 > React
 > Javascript
-> Como eu faço para executar o serviço do backend?
+
+Como eu faço para executar o serviço do backend?
 
 ![image](https://github.com/Gabirodriguesdev/ChatGPT_Node_React/assets/92934830/a612806f-58c2-4787-ba16-f42cf031591e)
 
