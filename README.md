@@ -11,17 +11,11 @@ React
 Javascript
 Como eu faço para executar o serviço do backend?
 
-$ cd server
-$ npm install
-$ npm start
-
+![image](https://github.com/Gabirodriguesdev/ChatGPT_Node_React/assets/92934830/a612806f-58c2-4787-ba16-f42cf031591e)
 
 Feito isso o serviço de backend estará funcionando na porta :5000.
 
-
-
 Como eu faço para executar o serviço do frontend?
 
-$ cd web
-$ npm install
-$ npm start
+
+![image](https://github.com/Gabirodriguesdev/ChatGPT_Node_React/assets/92934830/958875cc-5d40-4a86-a08b-3dc35b001013)
